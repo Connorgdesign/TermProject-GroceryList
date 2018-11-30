@@ -69,19 +69,19 @@
 		android:id="@+id/linearLayout1"
 		android:layout_marginTop="11.5dp">
 		<Button
-			android:text="Button"
+			android:text="View Items"
 			android:layout_width="178.5dp"
 			android:layout_height="36.5dp"
 			android:id="@+id/button1"
 			android:layout_marginLeft="12.5dp" />
 		<Button
-			android:text="Button"
+			android:text="Enter Item"
 			android:layout_width="178.5dp"
 			android:layout_height="36.5dp"
 			android:id="@+id/button1" />
 	</LinearLayout>
 	<Button
-		android:text="Button"
+		android:text="More grocery list info"
 		android:layout_width="350.0dp"
 		android:layout_height="36.5dp"
 		android:id="@+id/button1"

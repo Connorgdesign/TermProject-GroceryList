@@ -2567,6 +2567,9 @@ namespace TermProject
 			// aapt resource value: 0x7f08005f
 			public const int image = 2131230815;
 			
+			// aapt resource value: 0x7f0800b4
+			public const int imageView1 = 2131230900;
+			
 			// aapt resource value: 0x7f0800ae
 			public const int info = 2131230894;
 			
@@ -2597,14 +2600,14 @@ namespace TermProject
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int masked = 2131230902;
+			// aapt resource value: 0x7f0800b9
+			public const int masked = 2131230905;
 			
 			// aapt resource value: 0x7f0800a7
 			public const int media_actions = 2131230887;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int message = 2131230900;
+			// aapt resource value: 0x7f0800b7
+			public const int message = 2131230903;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2804,6 +2807,12 @@ namespace TermProject
 			// aapt resource value: 0x7f080069
 			public const int textSpacerNoTitle = 2131230825;
 			
+			// aapt resource value: 0x7f0800b5
+			public const int textView1 = 2131230901;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int textView2 = 2131230902;
+			
 			// aapt resource value: 0x7f0800a0
 			public const int text_input_password_toggle = 2131230880;
 			
@@ -2864,8 +2873,8 @@ namespace TermProject
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int visible = 2131230901;
+			// aapt resource value: 0x7f0800b8
+			public const int visible = 2131230904;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3101,19 +3110,22 @@ namespace TermProject
 			public const int notification_template_part_time = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int select_dialog_item_material = 2130968633;
+			public const int Second = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int select_dialog_multichoice_material = 2130968634;
+			public const int select_dialog_item_material = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int select_dialog_singlechoice_material = 2130968635;
+			public const int select_dialog_multichoice_material = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int support_simple_spinner_dropdown_item = 2130968636;
+			public const int select_dialog_singlechoice_material = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int tooltip = 2130968637;
+			public const int support_simple_spinner_dropdown_item = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int tooltip = 2130968638;
 			
 			static Layout()
 			{
