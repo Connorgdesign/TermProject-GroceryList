@@ -10,7 +10,6 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using System.IO;
-using Newtonsoft.Json;
 using System.Xml.Serialization;
 using System.Xml;
 using System.Collections.ObjectModel;
